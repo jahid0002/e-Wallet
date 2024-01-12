@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "375358086577",
+    "project_id": "fir-c292f",
+    "storage_bucket": "fir-c292f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375358086577:android:058531ecf591ae762c3190",
+        "android_client_info": {
+          "package_name": "com.example.class20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375358086577-ccjqtns9atimgb1fe3g225bd4f91cesm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZPTHMO2MZfnQyWFF4-HdytX9N-Nnbw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375358086577-ccjqtns9atimgb1fe3g225bd4f91cesm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375358086577-krevgumhu80kc636huo8roa47vhm6qcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paypal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375358086577:android:bed028018b5aaac22c3190",
+        "android_client_info": {
+          "package_name": "com.example.paypal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375358086577-ccjqtns9atimgb1fe3g225bd4f91cesm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZPTHMO2MZfnQyWFF4-HdytX9N-Nnbw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375358086577-ccjqtns9atimgb1fe3g225bd4f91cesm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375358086577-krevgumhu80kc636huo8roa47vhm6qcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paypal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
